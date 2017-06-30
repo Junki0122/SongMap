@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<country>イギリス</country>
+		<title>Yesterday</title>
+		<artist>The Beatles</artist>
+		<url>sound/yesterday.mp3</url>
+	</song>
+
+	<song>
+		<country>イギリス</country>
+		<title>Day Tripper</title>
+		<artist>The Beatles</artist>
+		<url>sound/daytripper.mp3</url>
+	</song>
+
+	<song>
+		<country>イギリス</country>
+		<title>Lady Madonna</title>
+		<artist>The Beatles</artist>
+		<url>sound/ladymadonna.mp3</url>
+	</song>
+
+	<song>
+		<country>イギリス</country>
+		<title>Ob-La-Di, Ob-La-Da</title>
+		<artist>The Beatles</artist>
+		<url>sound/ob-la-di.mp3</url>
+	</song>
+
+	<song>
+		<country>アメリカ合衆国</country>
+		<title>Beat it</title>
+		<artist>Michael Jackson</artist>
+		<url>sound/beatit.mp3</url>
+	</song>
+
+	<song>
+		<country>日本</country>
+		<title>1/6の夢旅人</title>
+		<artist>樋口了一</artist>
+		<url>sound/yumetabibito.mp3</url>
+	</song>
+
+	<song>
+		<country>日本</country>
+		<title>1/6の夢旅人2002</title>
+		<artist>樋口了一</artist>
+		<url>sound/yumetabibito2002.mp3</url>
+	</song>
+
+	<song>
+		<country>日本</country>
+		<title>自動車ショー歌</title>
+		<artist>小林旭</artist>
+		<url>sound/jidosyasyo.mp3</url>
+	</song>
+
+	<song>
+		<country>日本</country>
+		<title>本日のスープ</title>
+		<artist>大泉洋 with STARDUST REVUE</artist>
+		<url>sound/honjitunosu-pu.mp3</url>
+	</song>
+
+	<song>
+		<country>日本</country>
+		<title>川</title>
+		<artist>In the Soup</artist>
+		<url>sound/kawa.mp3</url>
+	</song>
+
+	<song>
+		<country>日本</country>
+		<title>その血の記憶〜end of THE WORLD〜</title>
+		<artist>JO☆STARS～TOMMY,Coda,JIN～</artist>
+		<url>sound/jojo4.mp3</url>
+	</song>
+
+	<song>
+		<country>ベトナム</country>
+		<title>ホーチミン師 Như có Bác Hồ trong ngày vui đại thắng</title>
+		<artist>？？？</artist>
+		<url>sound/ho-timin.mp3</url>
+	</song>
+</songs>
